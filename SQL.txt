@@ -1,0 +1,8 @@
+//Rank 
+SELECT
+  Row_Number() over (order by AccValue DESC) as Rank,
+  Account,
+  AccValue,
+  Ref_DT 
+FROM
+  Value

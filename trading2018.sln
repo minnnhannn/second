@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trading2018", "trading2018\trading2018.csproj", "{5627E475-D696-4B9D-8E56-F04854D36B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5627E475-D696-4B9D-8E56-F04854D36B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5627E475-D696-4B9D-8E56-F04854D36B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5627E475-D696-4B9D-8E56-F04854D36B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5627E475-D696-4B9D-8E56-F04854D36B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03E21436-2542-4F95-8A5F-4C86444B0CA3}
+	EndGlobalSection
+EndGlobal
